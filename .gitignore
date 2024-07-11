@@ -21,3 +21,4 @@
 */vendor
 */bin
 */log
+.cache/
