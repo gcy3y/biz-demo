@@ -68,6 +68,15 @@ if you want to stop their docker application,you can run `make env-stop`.
 *注意:* `我们使用 air 运行并热加载，必须先安装好`
 ```
 make run svc=`svcName`
+make run svc=cart
+make run svc=checkout
+make run svc=email
+make run svc=frontend
+make run svc=order
+make run svc=payment
+make run svc=product
+make run svc=user
+
 ```
 ### 浏览 Gomall 站点
 ```

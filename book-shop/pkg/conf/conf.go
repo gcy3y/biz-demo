@@ -43,5 +43,5 @@ const (
 	UserServiceAddress   = "127.0.0.1:8889"
 	OrderServiceAddress  = "127.0.0.1:8890"
 	ItemServiceAddress   = "127.0.0.1:8891"
-	FacadeServiceAddress = "127.0.0.1:8080"
+	FacadeServiceAddress = ":8080"
 )
